@@ -95,3 +95,5 @@ This is a backend API for managing doctor appointments using Node.js, Express, a
   ```
 ![image](https://github.com/user-attachments/assets/e34c791c-bfbe-47aa-95d9-e49ffc518c55)
 
+![image](https://github.com/user-attachments/assets/1e52c686-1623-4165-96d9-6a381d656c98)
+
