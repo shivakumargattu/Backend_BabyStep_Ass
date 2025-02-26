@@ -94,6 +94,3 @@ This is a backend API for managing doctor appointments using Node.js, Express, a
   }
   ```
 
-## License
-This project is licensed under the MIT License.
-
