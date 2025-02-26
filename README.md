@@ -78,7 +78,7 @@ This is a backend API for managing doctor appointments using Node.js, Express, a
 
 - **Time Slot Calculation**: Uses `moment.js` to check available time slots based on doctor's working hours.
 - **Validation & Error Handling**: Ensures all required fields are provided and prevents conflicting appointments.
-- **(Optional) Real-Time Updates**: WebSocket integration can be added to notify clients about appointment changes.
+  
 
 ## Testing the API
 - Use **Postman** or **cURL** to test the endpoints.
