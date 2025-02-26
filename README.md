@@ -93,4 +93,5 @@ This is a backend API for managing doctor appointments using Node.js, Express, a
     "notes": "Routine pregnancy ultrasound"
   }
   ```
+![image](https://github.com/user-attachments/assets/e34c791c-bfbe-47aa-95d9-e49ffc518c55)
 
